@@ -7,6 +7,6 @@ Below is a _list_ of my **technical skills**.
 - C
 - Python
 
-## Collabaration
+## Collabaration Tools
 - Git
 - GitHub
