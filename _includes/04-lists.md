@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# A list of things I'm currently things:
+- Python Basics
+- SQL
+- Git and GitHub
+- Machine Learning Basics
